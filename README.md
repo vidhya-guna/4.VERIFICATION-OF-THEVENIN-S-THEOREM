@@ -1,4 +1,7 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+## NAME: VIDHYA G
+## REF NO: 25018873
+
 
 **AIM:**
 
@@ -49,6 +52,16 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+
+<img width="804" height="1280" alt="image" src="https://github.com/user-attachments/assets/9f9214fa-3e64-4a0d-b1c8-1dd3761eb50f" />
+
+<img width="826" height="1280" alt="image" src="https://github.com/user-attachments/assets/8b546d81-1736-47ef-a5ce-e9fd43f7bd9c" />
+
+<img width="796" height="1280" alt="image" src="https://github.com/user-attachments/assets/129c1913-10d7-4f7f-a9c5-8ca377767f1d" />
+
+<img width="852" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d1b7862-4872-429e-896f-7cbaf3e36462" />
+
+
 
 
 **PROCEDURE:**
